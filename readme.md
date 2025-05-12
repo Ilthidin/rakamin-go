@@ -1,1 +1,1 @@
-## Boilerplate for Rakamin Final Task
+## Rakamin final project
